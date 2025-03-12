@@ -4,7 +4,7 @@ Comprehensive Python Cheatsheet
 </sup>
 Hello3
 ![Monty Python](web/image_888.jpeg)
-
+Hi
 
 Contents
 --------
@@ -3595,3 +3595,4 @@ Index
 * **Ctrl+F / ⌘F is usually sufficient.**
 * **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
 * **Click on the title's `'🔗'` to get a link to its section.**
+Branch1: доп измен 1
